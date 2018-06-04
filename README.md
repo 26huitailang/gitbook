@@ -1,4 +1,4 @@
-# API Examples
+# README
 
 ## Getting Super Powers
 

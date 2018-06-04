@@ -1,5 +1,5 @@
 # Table of contents
 
-* [API Examples](README.md)
+* [README](README.md)
 * [influxdb](influxdb.md.md)
 
