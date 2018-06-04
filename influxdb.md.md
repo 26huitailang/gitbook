@@ -1,4 +1,4 @@
-# influxdb.md
+# influxdb
 
 \# 安装
 
